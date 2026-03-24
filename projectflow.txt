@@ -1,0 +1,2 @@
+Create git repo and clone it in local.
+Create code.py and code to it. (it will save a csv file to a new "data" folder).
